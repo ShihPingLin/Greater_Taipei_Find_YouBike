@@ -2,7 +2,7 @@
 ## Final Project: 大台北找YouBike
 
 ### Demo
-https://youtu.be/ufst-hSDnlU
+https://youtu.be/ufst-hSDnlU \
 [![Demo](pic2.jpg)](https://youtu.be/ufst-hSDnlU)
 
 ### 1. 如何在 localhost 安裝與測試之詳細步驟
